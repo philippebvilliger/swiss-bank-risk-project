@@ -8,7 +8,7 @@ pip install -r requirements.txt
 
 ## Run order
 
-Run the notebooks from in this order:
+Run the notebooks in this order:
 
 1. code/01_get_data.ipynb
 2. code/02_clean.ipynb
