@@ -23,9 +23,9 @@ The full project should take a few minutes to run on a standard computer. It pro
 
 ## Presentation recording
 
-Project presentation recording:
+Here is the project presentation recording link:
 
-[Presentation recording](https://drive.google.com/file/d/1djAObS6BEBRdl2QVZonHeiA3851s1qTU/view?usp=sharing)
+[Presentation recording Link](https://drive.google.com/file/d/1djAObS6BEBRdl2QVZonHeiA3851s1qTU/view?usp=sharing)
 
 ## Data sources
 
