@@ -21,6 +21,12 @@ Run the notebooks in this order:
 
 The full project should take a few minutes to run on a standard computer. It produces cleaned and processed weekly data, model evaluation results as well as the final figures used in the report.
 
+## Presentation recording
+
+The project presentation recording is available here:
+
+[Watch the presentation recording](https://drive.google.com/file/d/1djAObS6BEBRdl2QVZonHeiA3851s1qTU/view?usp=sharing)
+
 ## Data sources
 
 The data comes from official European Central Bank (ECB) and Swiss National Bank (SNB) sources. The project uses the ECB CISS index, the CHF/EUR exchange rate, the SNB policy rate and Swiss commercial-bank and government bond yields.
