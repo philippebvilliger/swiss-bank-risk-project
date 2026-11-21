@@ -3,7 +3,7 @@ import pandas as pd
 
 
 def get_project_root():
-    cwd = Path.cwd()  # current working directory
+    cwd = Path.cwd()
 
     if cwd.name == "code":
         project_root = cwd.parent
@@ -19,6 +19,8 @@ def load_raw_datasets(project_root):
     raw_data_folder = project_root.joinpath("data", "raw")
     raw_data_folder.mkdir(parents=True, exist_ok=True)
 
+    # Adapted from https://stackoverflow.com/questions/56701311/accessing-csv-in-python-when-file-name-is-unknown
+    # CC BY-SA 4.0
     csv_files = list(raw_data_folder.glob("*.csv"))
 
     datasets = {}
